@@ -1,8 +1,8 @@
-const  XBOT = 'AMPIBI'; // Nama Bot Whatsapp
-const instagram = 'https://instagram.com/affis_saputro123'; // Nama Instagramlu cok
-const nomer = 'https://Wa.me/+6282334297175'; // Nomor whatsapplu cok
+const  XBOT = 'SANZ BOT'; // Nama Bot Whatsapp
+const instagram = 'https://instagram.com/iksanzz_nation'; // Nama Instagramlu cok
+const nomer = 'https://Wa.me/+6285771853430'; // Nomor whatsapplu cok
 const aktif = 'Tergantung kuota'; // Kapan bot lu aktif
-const groupwa = 'comming soon'; // OFFICIAL GRUP LU 1
+const groupwa = 'https://chat.whatsapp.com/K5YO1nq0EXL9uDrJ1wDhL9'; // OFFICIAL GRUP LU 1
 const youtube = 'https://youtube.com/channel/UCYKxsg7iF9a9IZyXQRNsvqw'; 
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
